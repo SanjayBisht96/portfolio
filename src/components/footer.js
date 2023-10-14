@@ -68,7 +68,7 @@ const StyledCredit = styled.div`
 `;
 
 const Footer = () => {
-  const [githubInfo, setGitHubInfo] = useState({
+  const [_, setGitHubInfo] = useState({
     stars: null,
     forks: null,
   });

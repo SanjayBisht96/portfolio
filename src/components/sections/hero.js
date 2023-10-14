@@ -65,9 +65,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
+        I’m a software engineer specialized in building web apps. Currently, I’m a Software Engineer at {' '}
         <a href="https://www.govividly.com/" target="_blank" rel="noreferrer">
           Vividly
         </a>
