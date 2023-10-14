@@ -350,8 +350,8 @@ const Featured = () => {
       <h2 className="numbered-heading" ref={revealTitle}>
         Some Things I’ve Built
       </h2>
-
-      <StyledProjectsGrid>
+      <p>Coming Soon</p>
+      {/* <StyledProjectsGrid>
         {featuredProjects &&
           featuredProjects.map(({ node }, i) => {
             const { frontmatter, html } = node;
@@ -409,7 +409,7 @@ const Featured = () => {
               </StyledProject>
             );
           })}
-      </StyledProjectsGrid>
+      </StyledProjectsGrid> */}
     </section>
   );
 };
